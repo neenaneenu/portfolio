@@ -376,7 +376,7 @@ export default function Profito() {
         </motion.section>
 
         <footer className="text-center text-secondary py-4 border-top border-secondary mt-5">
-          <p className="mb-2">© {new Date().getFullYear()} Neena T — Built with React & Bootstrap</p>
+          <p className="mb-2">© {new Date().getFullYear()} Neena T </p>
           <p className="mb-0 text-info">💙 Crafted with passion and attention to detail</p>
         </footer>
       </main>
